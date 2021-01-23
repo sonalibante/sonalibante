@@ -1,7 +1,5 @@
 ### Hi there, I'am Sonali 👋
 
-[![Website]](https://sonalibante.github.io/)
-
 ## I'm a Daughter, Developer, and Tutor!!
 
 - 🔭 I’m currently looking for new opportunities
@@ -20,6 +18,13 @@
 </br>
 
 ### Languages and Tools:
+
+</br>
+
+---
+
+<image aline="left" alt="Sonali's Github State" src="https://github-readme-stats.vercel.app/api?username=sonalibante&show_icons=true&hide_border=true" />
+
 
 [website]: https://sonalibante.github.io/
 [linkedin]: https://www.linkedin.com/in/sonalibante/
