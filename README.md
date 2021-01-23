@@ -17,7 +17,10 @@
 
 </br>
 
+---
+
 ### Languages and Tools:
+<image aline="left" alt="Sonali's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalibante" />
 
 </br>
 
