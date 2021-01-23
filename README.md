@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking open to colaborate on Cybersecurity projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: sonalibante8@gmail.com
 
 </br>
 
