@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="visualstudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />]
+[<img align="left" alt="visualstudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />][vscode]
 
 [<img align="left" alt="puppet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/puppet.svg" />]
 
