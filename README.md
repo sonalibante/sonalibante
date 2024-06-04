@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3><img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="30"> Sonali Bante | Daughter, Developer, and Tutor! 
+<h3><img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="100"> Sonali Bante | Daughter, Developer, and Tutor! 
 <br>
 Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.   
 </h3>
