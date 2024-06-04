@@ -1,4 +1,9 @@
-### Hi there, I am Sonali 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://sonalibante.tech">Sonali </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
 ## I'm a Daughter, Developer, and Tutor!!
 ## Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.
