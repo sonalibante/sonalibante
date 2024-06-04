@@ -55,3 +55,9 @@
 [website]: https://sonalibante.tech/
 [linkedin]: https://www.linkedin.com/in/sonalibante/
 
+
+<p align="center">
+        <img src="https://sonalibante.tech/wp-content/uploads/2024/06/14.gif" alt="Github Stats" />
+</p>
+
+
