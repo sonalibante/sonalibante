@@ -2,8 +2,13 @@
    <h1>Hi there, I'm <a href="https://sonalibante.tech">Sonali </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-## I'm a Daughter, Developer, and Tutor!!
-## Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.
+
+<div align="center">
+<h3><img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="30"> Sonali Bante | Daughter, Developer, and Tutor! 
+<br>
+Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.   
+</h3>
+</div>
 
 - 🔭 I’m currently looking for new opportunities
 - 👯 I’m looking open to collaborate on Application Development Projects
@@ -54,10 +59,3 @@
 
 [website]: https://sonalibante.tech/
 [linkedin]: https://www.linkedin.com/in/sonalibante/
-
-
-<p align="center">
-        <video src="https://sonalibante.tech/wp-content/uploads/2024/06/Untitled-1000-x-200-px.mp4" alt="Github Stats" />
-</p>
-
-
