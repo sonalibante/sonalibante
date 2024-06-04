@@ -2,12 +2,13 @@
    <h1>Hi there, I'm <a href="https://sonalibante.tech">Sonali </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-
-<div align="center">
-<h3><img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="100"> Sonali Bante | Daughter, Developer, and Tutor! 
-<br>
-Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.   
-</h3>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <h3 style="display: flex; align-items: center; margin: 0;">
+        <img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="100" style="vertical-align: middle; margin-right: 10px;">
+        Sonali Bante | Daughter, Developer, and Tutor! 
+        <br>
+        Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.
+    </h3>
 </div>
 
 - 🔭 I’m currently looking for new opportunities
