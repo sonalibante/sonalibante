@@ -57,7 +57,7 @@
 
 
 <p align="center">
-        <img src="https://sonalibante.tech/wp-content/uploads/2024/06/14.gif" alt="Github Stats" height="500px"/>
+        <img src="https://sonalibante.tech/wp-content/uploads/2024/06/Untitled-1000-x-200-px.jpg.gif" alt="Github Stats" />
 </p>
 
 
