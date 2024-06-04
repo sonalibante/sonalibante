@@ -1,6 +1,7 @@
 ### Hi there, I am Sonali 👋
 
 ## I'm a Daughter, Developer, and Tutor!!
+## Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.
 
 - 🔭 I’m currently looking for new opportunities
 - 👯 I’m looking open to collaborate on Application Development Projects
