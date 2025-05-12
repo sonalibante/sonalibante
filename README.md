@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <h3 style="display: flex; align-items: center; margin: 0;">
         <img src="https://sonalibante.tech/wp-content/uploads/2024/06/13.gif" width="100" style="vertical-align: middle; margin-right: 10px;">
-        Sonali Bante | Daughter, Developer, and Tutor! 
+        Sonali Bante | Daughter, Developer, and a Mentor! 
         <br>
         Working as a Software Development Engineer, delivering innovative solutions, seamless user experiences, and scalable, robust systems.
     </h3>
