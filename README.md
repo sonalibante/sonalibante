@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently looking for new opportunities
 - 👯 I’m looking open to collaborate on Application Development Projects
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 </br>
 
