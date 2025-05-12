@@ -12,8 +12,8 @@
 </div>
 
 - 🔭 I’m currently looking for new opportunities
-- 👯 I’m looking open to collaborate on Application Development Projects
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 👯 I’m open to collaborating on Application Development Projects
+- 🥅 2025 Goals: Contribute more to open-source projects
 
 </br>
 
