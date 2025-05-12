@@ -58,5 +58,5 @@
 
 
 
-[website]: https://sonalibante.tech/
+[website]: https://sonalibante.github.io/
 [linkedin]: https://www.linkedin.com/in/sonalibante/
